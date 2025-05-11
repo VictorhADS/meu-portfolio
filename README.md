@@ -1,1 +1,3 @@
-# meu-portfolio
+- /projetos-academicos
+- /projetos-pessoais
+- /documentacao
